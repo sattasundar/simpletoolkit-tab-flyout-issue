@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<simpleShell:SimpleShell
+    x:Class="TechAid.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:controls="clr-namespace:TechAid.Views.Controls"
+    xmlns:local="clr-namespace:TechAid"
+    xmlns:pages="clr-namespace:TechAid.Views.Pages"
+    xmlns:simpleCore="clr-namespace:SimpleToolkit.Core;assembly=SimpleToolkit.Core"
+    xmlns:simpleShell="clr-namespace:SimpleToolkit.SimpleShell;assembly=SimpleToolkit.SimpleShell"
+    Background="{AppThemeBinding Default=White,
+                                 Dark=Black}">
+
+    <TabBar x:Name="tabBar" />
+
+    <simpleShell:SimpleShell.RootPageContainer>
+        <Grid x:Name="rootPageContainer" RowDefinitions="auto,*,auto">
+            <Grid
+                x:Name="navBar"
+                Margin="20,0"
+                RowDefinitions="60, 60">
+                <!--<Image
+                    Grid.RowSpan="2"
+                    Aspect="AspectFit"
+                    HeightRequest="60"
+                    HorizontalOptions="End"
+                    Source="{Binding CurrentShellSection.Icon, Source={x:Reference thisShell}}"
+                    VerticalOptions="Center"
+                    WidthRequest="60" />-->
+                <simpleCore:ContentButton
+                    Clicked="MenuClicked"
+                    HeightRequest="25"
+                    HorizontalOptions="Start"
+                    VerticalOptions="Center"
+                    WidthRequest="25">
+                    <Image Aspect="AspectFit" Source="avatar.png" />
+                </simpleCore:ContentButton>
+                <!--<Label
+                    Grid.Row="1"
+                    FontFamily="NunitoBold"
+                    FontSize="30"
+                    Text="{Binding CurrentShellSection.Title, Source={x:Reference thisShell}}"
+                    TextColor="Black"
+                    VerticalOptions="Center" />-->
+            </Grid>
+            <simpleShell:SimpleNavigationHost
+                x:Name="pageContainer"
+                Grid.Row="1"
+                Grid.RowSpan="2" />
+            <controls:TabBarView
+                x:Name="tabBarView"
+                Grid.Row="2"
+                CurrentPageSelectionChanged="TabBarViewCurrentPageChanged"
+                HorizontalOptions="Fill"
+                VerticalOptions="End" />
+        </Grid>
+    </simpleShell:SimpleShell.RootPageContainer>
+    <simpleShell:SimpleShell.Content>
+        <Grid x:Name="flyoutRootGrid">
+            <simpleShell:SimpleNavigationHost />
+            <Rectangle
+                x:Name="flyoutBackdrop"
+                Margin="-1"
+                Fill="Black"
+                InputTransparent="True">
+                <Rectangle.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="FlyoutBackdropTapped" />
+                </Rectangle.GestureRecognizers>
+            </Rectangle>
+            <Grid
+                x:Name="flyout"
+                Background="{AppThemeBinding Light=White,
+                                             Dark=Black}"
+                HorizontalOptions="Start"
+                Shadow="{OnPlatform Default={x:Null},
+                                    iOS={Shadow Brush=Black,
+                                                Opacity=0.3}}"
+                VerticalOptions="Fill"
+                WidthRequest="280" />
+            <Path
+                Fill="Transparent"
+                Opacity="0.3"
+                Stroke="LightGray"
+                StrokeThickness="10">
+                <Path.Data>
+                    <GeometryGroup>
+                        <EllipseGeometry
+                            Center="30,25"
+                            RadiusX="75"
+                            RadiusY="75" />
+                        <EllipseGeometry
+                            Center="20,120"
+                            RadiusX="55"
+                            RadiusY="55" />
+                    </GeometryGroup>
+                </Path.Data>
+            </Path>
+
+            <Grid x:Name="flyoutContent" RowDefinitions="120, *, auto">
+                <Grid
+                    Padding="20,0"
+                    ColumnDefinitions="auto, *"
+                    ColumnSpacing="15">
+                    <Border
+                        HeightRequest="65"
+                        HorizontalOptions="Start"
+                        StrokeShape="{Ellipse}"
+                        StrokeThickness="0"
+                        VerticalOptions="Center"
+                        WidthRequest="65">
+                        <Image
+                            Aspect="AspectFill"
+                            Background="Black"
+                            Source="avatar.png" />
+                    </Border>
+
+                    <VerticalStackLayout Grid.Column="1" VerticalOptions="Center">
+                        <Label
+                            FontSize="19"
+                            Text="Angel Fernandus"
+                            TextColor="{AppThemeBinding Light=Black,
+                                                        Dark=White}" />
+                        <Label
+                            FontSize="13"
+                            Text="angel_fernandus"
+                            TextColor="Gray" />
+                    </VerticalStackLayout>
+                </Grid>
+                <ScrollView Grid.Row="1">
+                    <VerticalStackLayout Spacing="10" VerticalOptions="Center">
+                        <simpleCore:ContentButton Padding="20,0">
+                            <VerticalStackLayout>
+                                <Grid Padding="0,13,0,10" ColumnDefinitions="45, *">
+                                    <!--<Image
+                                        HeightRequest="20"
+                                        HorizontalOptions="Start"
+                                        Source="{AppThemeBinding Light=log_out.png,
+                                                                 Dark=log_out_dark.png}"
+                                        VerticalOptions="Center"
+                                        WidthRequest="20" />-->
+                                    <Label
+                                        Grid.Column="1"
+                                        FontSize="15"
+                                        Text="Logout"
+                                        TextColor="{AppThemeBinding Light=Black,
+                                                                    Dark=White}" />
+                                </Grid>
+
+                                <Rectangle
+                                    Fill="{AppThemeBinding Light=LightGray,
+                                                           Dark=Gray}"
+                                    HeightRequest="1.5"
+                                    HorizontalOptions="Fill"
+                                    VerticalOptions="End" />
+                            </VerticalStackLayout>
+                        </simpleCore:ContentButton>
+                    </VerticalStackLayout>
+                </ScrollView>
+            </Grid>
+        </Grid>
+    </simpleShell:SimpleShell.Content>
+</simpleShell:SimpleShell>

@@ -1,0 +1,321 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\GitHubWorkSpaceArea\\MAUIWorkspace\\maui-workordermgmt-app-ui\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C92CF0D-078A-4FDD-A409-21E4C212BF7F}|TechAid\\TechAid.csproj|e:\\githubworkspacearea\\mauiworkspace\\maui-workordermgmt-app-ui\\src\\techaid\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3C92CF0D-078A-4FDD-A409-21E4C212BF7F}|TechAid\\TechAid.csproj|solutionrelative:techaid\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C92CF0D-078A-4FDD-A409-21E4C212BF7F}|TechAid\\TechAid.csproj|e:\\githubworkspacearea\\mauiworkspace\\maui-workordermgmt-app-ui\\src\\techaid\\appshell.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{3C92CF0D-078A-4FDD-A409-21E4C212BF7F}|TechAid\\TechAid.csproj|solutionrelative:techaid\\appshell.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C92CF0D-078A-4FDD-A409-21E4C212BF7F}|TechAid\\TechAid.csproj|e:\\githubworkspacearea\\mauiworkspace\\maui-workordermgmt-app-ui\\src\\techaid\\views\\pages\\workorderspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C92CF0D-078A-4FDD-A409-21E4C212BF7F}|TechAid\\TechAid.csproj|solutionrelative:techaid\\views\\pages\\workorderspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C92CF0D-078A-4FDD-A409-21E4C212BF7F}|TechAid\\TechAid.csproj|e:\\githubworkspacearea\\mauiworkspace\\maui-workordermgmt-app-ui\\src\\techaid\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C92CF0D-078A-4FDD-A409-21E4C212BF7F}|TechAid\\TechAid.csproj|solutionrelative:techaid\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C92CF0D-078A-4FDD-A409-21E4C212BF7F}|TechAid\\TechAid.csproj|e:\\githubworkspacearea\\mauiworkspace\\maui-workordermgmt-app-ui\\src\\techaid\\views\\pages\\workorderspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3C92CF0D-078A-4FDD-A409-21E4C212BF7F}|TechAid\\TechAid.csproj|solutionrelative:techaid\\views\\pages\\workorderspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C92CF0D-078A-4FDD-A409-21E4C212BF7F}|TechAid\\TechAid.csproj|e:\\githubworkspacearea\\mauiworkspace\\maui-workordermgmt-app-ui\\src\\techaid\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3C92CF0D-078A-4FDD-A409-21E4C212BF7F}|TechAid\\TechAid.csproj|solutionrelative:techaid\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C92CF0D-078A-4FDD-A409-21E4C212BF7F}|TechAid\\TechAid.csproj|e:\\githubworkspacearea\\mauiworkspace\\maui-workordermgmt-app-ui\\src\\techaid\\resources\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3C92CF0D-078A-4FDD-A409-21E4C212BF7F}|TechAid\\TechAid.csproj|solutionrelative:techaid\\resources\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C92CF0D-078A-4FDD-A409-21E4C212BF7F}|TechAid\\TechAid.csproj|e:\\githubworkspacearea\\mauiworkspace\\maui-workordermgmt-app-ui\\src\\techaid\\views\\pages\\assetspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3C92CF0D-078A-4FDD-A409-21E4C212BF7F}|TechAid\\TechAid.csproj|solutionrelative:techaid\\views\\pages\\assetspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C92CF0D-078A-4FDD-A409-21E4C212BF7F}|TechAid\\TechAid.csproj|e:\\githubworkspacearea\\mauiworkspace\\maui-workordermgmt-app-ui\\src\\techaid\\views\\controls\\tabbarview.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{3C92CF0D-078A-4FDD-A409-21E4C212BF7F}|TechAid\\TechAid.csproj|solutionrelative:techaid\\views\\controls\\tabbarview.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C92CF0D-078A-4FDD-A409-21E4C212BF7F}|TechAid\\TechAid.csproj|e:\\githubworkspacearea\\mauiworkspace\\maui-workordermgmt-app-ui\\src\\techaid\\views\\pages\\inspectionpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3C92CF0D-078A-4FDD-A409-21E4C212BF7F}|TechAid\\TechAid.csproj|solutionrelative:techaid\\views\\pages\\inspectionpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C92CF0D-078A-4FDD-A409-21E4C212BF7F}|TechAid\\TechAid.csproj|e:\\githubworkspacearea\\mauiworkspace\\maui-workordermgmt-app-ui\\src\\techaid\\views\\pages\\schedulepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3C92CF0D-078A-4FDD-A409-21E4C212BF7F}|TechAid\\TechAid.csproj|solutionrelative:techaid\\views\\pages\\schedulepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C92CF0D-078A-4FDD-A409-21E4C212BF7F}|TechAid\\TechAid.csproj|e:\\githubworkspacearea\\mauiworkspace\\maui-workordermgmt-app-ui\\src\\techaid\\views\\pages\\inventorypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3C92CF0D-078A-4FDD-A409-21E4C212BF7F}|TechAid\\TechAid.csproj|solutionrelative:techaid\\views\\pages\\inventorypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C92CF0D-078A-4FDD-A409-21E4C212BF7F}|TechAid\\TechAid.csproj|e:\\githubworkspacearea\\mauiworkspace\\maui-workordermgmt-app-ui\\src\\techaid\\views\\controls\\tabbarview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3C92CF0D-078A-4FDD-A409-21E4C212BF7F}|TechAid\\TechAid.csproj|solutionrelative:techaid\\views\\controls\\tabbarview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C92CF0D-078A-4FDD-A409-21E4C212BF7F}|TechAid\\TechAid.csproj|e:\\githubworkspacearea\\mauiworkspace\\maui-workordermgmt-app-ui\\src\\techaid\\views\\controls\\tabbariconview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3C92CF0D-078A-4FDD-A409-21E4C212BF7F}|TechAid\\TechAid.csproj|solutionrelative:techaid\\views\\controls\\tabbariconview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C92CF0D-078A-4FDD-A409-21E4C212BF7F}|TechAid\\TechAid.csproj|e:\\githubworkspacearea\\mauiworkspace\\maui-workordermgmt-app-ui\\src\\techaid\\techaid.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3C92CF0D-078A-4FDD-A409-21E4C212BF7F}|TechAid\\TechAid.csproj|solutionrelative:techaid\\techaid.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C92CF0D-078A-4FDD-A409-21E4C212BF7F}|TechAid\\TechAid.csproj|e:\\githubworkspacearea\\mauiworkspace\\maui-workordermgmt-app-ui\\src\\techaid\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C92CF0D-078A-4FDD-A409-21E4C212BF7F}|TechAid\\TechAid.csproj|solutionrelative:techaid\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C92CF0D-078A-4FDD-A409-21E4C212BF7F}|TechAid\\TechAid.csproj|e:\\githubworkspacearea\\mauiworkspace\\maui-workordermgmt-app-ui\\src\\techaid\\views\\controls\\tabbariconview.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{3C92CF0D-078A-4FDD-A409-21E4C212BF7F}|TechAid\\TechAid.csproj|solutionrelative:techaid\\views\\controls\\tabbariconview.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C92CF0D-078A-4FDD-A409-21E4C212BF7F}|TechAid\\TechAid.csproj|e:\\githubworkspacearea\\mauiworkspace\\maui-workordermgmt-app-ui\\src\\techaid\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C92CF0D-078A-4FDD-A409-21E4C212BF7F}|TechAid\\TechAid.csproj|solutionrelative:techaid\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0e6ecdb7-7308-37e5-9768-ada2bc2961ab}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InventoryPage.xaml",
+              "DocumentMoniker": "E:\\GitHubWorkSpaceArea\\MAUIWorkspace\\maui-workordermgmt-app-ui\\src\\TechAid\\Views\\Pages\\InventoryPage.xaml",
+              "RelativeDocumentMoniker": "TechAid\\Views\\Pages\\InventoryPage.xaml",
+              "ToolTip": "E:\\GitHubWorkSpaceArea\\MAUIWorkspace\\maui-workordermgmt-app-ui\\src\\TechAid\\Views\\Pages\\InventoryPage.xaml",
+              "RelativeToolTip": "TechAid\\Views\\Pages\\InventoryPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-24T08:12:20.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SchedulePage.xaml",
+              "DocumentMoniker": "E:\\GitHubWorkSpaceArea\\MAUIWorkspace\\maui-workordermgmt-app-ui\\src\\TechAid\\Views\\Pages\\SchedulePage.xaml",
+              "RelativeDocumentMoniker": "TechAid\\Views\\Pages\\SchedulePage.xaml",
+              "ToolTip": "E:\\GitHubWorkSpaceArea\\MAUIWorkspace\\maui-workordermgmt-app-ui\\src\\TechAid\\Views\\Pages\\SchedulePage.xaml",
+              "RelativeToolTip": "TechAid\\Views\\Pages\\SchedulePage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-24T08:12:01.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InspectionPage.xaml",
+              "DocumentMoniker": "E:\\GitHubWorkSpaceArea\\MAUIWorkspace\\maui-workordermgmt-app-ui\\src\\TechAid\\Views\\Pages\\InspectionPage.xaml",
+              "RelativeDocumentMoniker": "TechAid\\Views\\Pages\\InspectionPage.xaml",
+              "ToolTip": "E:\\GitHubWorkSpaceArea\\MAUIWorkspace\\maui-workordermgmt-app-ui\\src\\TechAid\\Views\\Pages\\InspectionPage.xaml",
+              "RelativeToolTip": "TechAid\\Views\\Pages\\InspectionPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-24T08:11:38.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Colors.xaml",
+              "DocumentMoniker": "E:\\GitHubWorkSpaceArea\\MAUIWorkspace\\maui-workordermgmt-app-ui\\src\\TechAid\\Resources\\Styles\\Colors.xaml",
+              "RelativeDocumentMoniker": "TechAid\\Resources\\Styles\\Colors.xaml",
+              "ToolTip": "E:\\GitHubWorkSpaceArea\\MAUIWorkspace\\maui-workordermgmt-app-ui\\src\\TechAid\\Resources\\Styles\\Colors.xaml",
+              "RelativeToolTip": "TechAid\\Resources\\Styles\\Colors.xaml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-24T09:22:15.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "E:\\GitHubWorkSpaceArea\\MAUIWorkspace\\maui-workordermgmt-app-ui\\src\\TechAid\\AppShell.xaml",
+              "RelativeDocumentMoniker": "TechAid\\AppShell.xaml",
+              "ToolTip": "E:\\GitHubWorkSpaceArea\\MAUIWorkspace\\maui-workordermgmt-app-ui\\src\\TechAid\\AppShell.xaml",
+              "RelativeToolTip": "TechAid\\AppShell.xaml",
+              "ViewState": "AQIAACsAAAAAAAAAAAAIwDgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-24T08:01:11.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TabBarView.xaml.cs",
+              "DocumentMoniker": "E:\\GitHubWorkSpaceArea\\MAUIWorkspace\\maui-workordermgmt-app-ui\\src\\TechAid\\Views\\Controls\\TabBarView.xaml.cs",
+              "RelativeDocumentMoniker": "TechAid\\Views\\Controls\\TabBarView.xaml.cs",
+              "ToolTip": "E:\\GitHubWorkSpaceArea\\MAUIWorkspace\\maui-workordermgmt-app-ui\\src\\TechAid\\Views\\Controls\\TabBarView.xaml.cs",
+              "RelativeToolTip": "TechAid\\Views\\Controls\\TabBarView.xaml.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAowHUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T07:56:37.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "E:\\GitHubWorkSpaceArea\\MAUIWorkspace\\maui-workordermgmt-app-ui\\src\\TechAid\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "TechAid\\AppShell.xaml.cs",
+              "ToolTip": "E:\\GitHubWorkSpaceArea\\MAUIWorkspace\\maui-workordermgmt-app-ui\\src\\TechAid\\AppShell.xaml.cs",
+              "RelativeToolTip": "TechAid\\AppShell.xaml.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAD4v3kAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T08:29:21.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "E:\\GitHubWorkSpaceArea\\MAUIWorkspace\\maui-workordermgmt-app-ui\\src\\TechAid\\App.xaml.cs",
+              "RelativeDocumentMoniker": "TechAid\\App.xaml.cs",
+              "ToolTip": "E:\\GitHubWorkSpaceArea\\MAUIWorkspace\\maui-workordermgmt-app-ui\\src\\TechAid\\App.xaml.cs",
+              "RelativeToolTip": "TechAid\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T07:54:14.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WorkOrdersPage.xaml.cs",
+              "DocumentMoniker": "E:\\GitHubWorkSpaceArea\\MAUIWorkspace\\maui-workordermgmt-app-ui\\src\\TechAid\\Views\\Pages\\WorkOrdersPage.xaml.cs",
+              "RelativeDocumentMoniker": "TechAid\\Views\\Pages\\WorkOrdersPage.xaml.cs",
+              "ToolTip": "E:\\GitHubWorkSpaceArea\\MAUIWorkspace\\maui-workordermgmt-app-ui\\src\\TechAid\\Views\\Pages\\WorkOrdersPage.xaml.cs",
+              "RelativeToolTip": "TechAid\\Views\\Pages\\WorkOrdersPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T11:52:35.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WorkOrdersPage.xaml",
+              "DocumentMoniker": "E:\\GitHubWorkSpaceArea\\MAUIWorkspace\\maui-workordermgmt-app-ui\\src\\TechAid\\Views\\Pages\\WorkOrdersPage.xaml",
+              "RelativeDocumentMoniker": "TechAid\\Views\\Pages\\WorkOrdersPage.xaml",
+              "ToolTip": "E:\\GitHubWorkSpaceArea\\MAUIWorkspace\\maui-workordermgmt-app-ui\\src\\TechAid\\Views\\Pages\\WorkOrdersPage.xaml",
+              "RelativeToolTip": "TechAid\\Views\\Pages\\WorkOrdersPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-24T08:10:54.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Styles.xaml",
+              "DocumentMoniker": "E:\\GitHubWorkSpaceArea\\MAUIWorkspace\\maui-workordermgmt-app-ui\\src\\TechAid\\Resources\\Styles\\Styles.xaml",
+              "RelativeDocumentMoniker": "TechAid\\Resources\\Styles\\Styles.xaml",
+              "ToolTip": "E:\\GitHubWorkSpaceArea\\MAUIWorkspace\\maui-workordermgmt-app-ui\\src\\TechAid\\Resources\\Styles\\Styles.xaml",
+              "RelativeToolTip": "TechAid\\Resources\\Styles\\Styles.xaml",
+              "ViewState": "AQIAAH8BAAAAAAAAAAAcwIoBAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-24T11:21:08.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AssetsPage.xaml",
+              "DocumentMoniker": "E:\\GitHubWorkSpaceArea\\MAUIWorkspace\\maui-workordermgmt-app-ui\\src\\TechAid\\Views\\Pages\\AssetsPage.xaml",
+              "RelativeDocumentMoniker": "TechAid\\Views\\Pages\\AssetsPage.xaml",
+              "ToolTip": "E:\\GitHubWorkSpaceArea\\MAUIWorkspace\\maui-workordermgmt-app-ui\\src\\TechAid\\Views\\Pages\\AssetsPage.xaml",
+              "RelativeToolTip": "TechAid\\Views\\Pages\\AssetsPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-24T08:10:39.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TabBarIconView.xaml",
+              "DocumentMoniker": "E:\\GitHubWorkSpaceArea\\MAUIWorkspace\\maui-workordermgmt-app-ui\\src\\TechAid\\Views\\Controls\\TabBarIconView.xaml",
+              "RelativeDocumentMoniker": "TechAid\\Views\\Controls\\TabBarIconView.xaml",
+              "ToolTip": "E:\\GitHubWorkSpaceArea\\MAUIWorkspace\\maui-workordermgmt-app-ui\\src\\TechAid\\Views\\Controls\\TabBarIconView.xaml",
+              "RelativeToolTip": "TechAid\\Views\\Controls\\TabBarIconView.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-24T07:58:26.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "E:\\GitHubWorkSpaceArea\\MAUIWorkspace\\maui-workordermgmt-app-ui\\src\\TechAid\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "TechAid\\MauiProgram.cs",
+              "ToolTip": "E:\\GitHubWorkSpaceArea\\MAUIWorkspace\\maui-workordermgmt-app-ui\\src\\TechAid\\MauiProgram.cs",
+              "RelativeToolTip": "TechAid\\MauiProgram.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T08:56:12.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TabBarIconView.xaml.cs",
+              "DocumentMoniker": "E:\\GitHubWorkSpaceArea\\MAUIWorkspace\\maui-workordermgmt-app-ui\\src\\TechAid\\Views\\Controls\\TabBarIconView.xaml.cs",
+              "RelativeDocumentMoniker": "TechAid\\Views\\Controls\\TabBarIconView.xaml.cs",
+              "ToolTip": "E:\\GitHubWorkSpaceArea\\MAUIWorkspace\\maui-workordermgmt-app-ui\\src\\TechAid\\Views\\Controls\\TabBarIconView.xaml.cs",
+              "RelativeToolTip": "TechAid\\Views\\Controls\\TabBarIconView.xaml.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA3wBgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T07:59:06.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "E:\\GitHubWorkSpaceArea\\MAUIWorkspace\\maui-workordermgmt-app-ui\\src\\TechAid\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "TechAid\\GlobalUsings.cs",
+              "ToolTip": "E:\\GitHubWorkSpaceArea\\MAUIWorkspace\\maui-workordermgmt-app-ui\\src\\TechAid\\GlobalUsings.cs",
+              "RelativeToolTip": "TechAid\\GlobalUsings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T07:53:17.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TabBarView.xaml",
+              "DocumentMoniker": "E:\\GitHubWorkSpaceArea\\MAUIWorkspace\\maui-workordermgmt-app-ui\\src\\TechAid\\Views\\Controls\\TabBarView.xaml",
+              "RelativeDocumentMoniker": "TechAid\\Views\\Controls\\TabBarView.xaml",
+              "ToolTip": "E:\\GitHubWorkSpaceArea\\MAUIWorkspace\\maui-workordermgmt-app-ui\\src\\TechAid\\Views\\Controls\\TabBarView.xaml",
+              "RelativeToolTip": "TechAid\\Views\\Controls\\TabBarView.xaml",
+              "ViewState": "AQIAADoAAAAAAAAAAAAswEMAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-24T07:55:15.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TechAid.csproj",
+              "DocumentMoniker": "E:\\GitHubWorkSpaceArea\\MAUIWorkspace\\maui-workordermgmt-app-ui\\src\\TechAid\\TechAid.csproj",
+              "RelativeDocumentMoniker": "TechAid\\TechAid.csproj",
+              "ToolTip": "E:\\GitHubWorkSpaceArea\\MAUIWorkspace\\maui-workordermgmt-app-ui\\src\\TechAid\\TechAid.csproj",
+              "RelativeToolTip": "TechAid\\TechAid.csproj",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAFQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-24T09:13:38.099Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

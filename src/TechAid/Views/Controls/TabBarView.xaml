@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentView
+    x:Class="TechAid.Views.Controls.TabBarView"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:c="clr-namespace:TechAid.Views.Controls"
+    xmlns:simpleCore="clr-namespace:SimpleToolkit.Core;assembly=SimpleToolkit.Core"
+    InputTransparent="False">
+    <ContentView.Resources>
+        <x:Double x:Key="ViewHeight">90</x:Double>
+        <Style TargetType="{x:Type c:TabBarIconView}">
+            <Setter Property="HeightRequest" Value="20" />
+            <Setter Property="WidthRequest" Value="30" />
+            <Setter Property="Background" Value="Transparent" />
+            <Setter Property="VerticalOptions" Value="Start" />
+        </Style>
+        <Style TargetType="{x:Type simpleCore:ContentButton}">
+            <Setter Property="VerticalOptions" Value="Fill" />
+            <Setter Property="HorizontalOptions" Value="Fill" />
+            <Setter Property="HeightRequest" Value="{StaticResource ViewHeight}" />
+            <Setter Property="Margin" Value="0" />
+            <Setter Property="Background" Value="Transparent" />
+        </Style>
+    </ContentView.Resources>
+
+    <Grid
+        CompressedLayout.IsHeadless="True"
+        HeightRequest="{StaticResource ViewHeight}"
+        VerticalOptions="Center">
+        <GraphicsView
+            x:Name="backGraphicsView"
+            Background="Transparent"
+            HeightRequest="{StaticResource ViewHeight}"
+            InputTransparent="True" />
+        <Grid
+            x:Name="buttonsGrid"
+            ColumnDefinitions="*, *, *, *, *"
+            CompressedLayout.IsHeadless="True"
+            HeightRequest="{StaticResource ViewHeight}"
+            HorizontalOptions="Fill"
+            VerticalOptions="End">
+            <simpleCore:ContentButton
+                Grid.Column="0"
+                Clicked="ButtonTapped"
+                SemanticProperties.Description="WorkOrders page">
+                <c:TabBarIconView Page="WorkOrdersPage" Source="icon_workorders.png"/>
+            </simpleCore:ContentButton>
+            <simpleCore:ContentButton
+                Grid.Column="1"
+                Clicked="ButtonTapped"
+                SemanticProperties.Description="Assets page">
+                <c:TabBarIconView Page="AssetsPage" Source="icon_assets.png" />
+            </simpleCore:ContentButton>
+            <simpleCore:ContentButton
+                Grid.Column="2"
+                Clicked="ButtonTapped"
+                SemanticProperties.Description="Inspection page">
+                <c:TabBarIconView Page="InspectionPage" Source="icon_inspection.png" />
+            </simpleCore:ContentButton>
+            <simpleCore:ContentButton
+                Grid.Column="3"
+                Clicked="ButtonTapped"
+                SemanticProperties.Description="Schedule page">
+                <c:TabBarIconView Page="SchedulePage" Source="icon_schedule.png" />
+            </simpleCore:ContentButton>
+            <simpleCore:ContentButton
+                Grid.Column="4"
+                Clicked="ButtonTapped"
+                SemanticProperties.Description="Inventory page">
+                <c:TabBarIconView Page="InventoryPage" Source="icon_inventory.png" />
+            </simpleCore:ContentButton>
+        </Grid>
+    </Grid>
+</ContentView>
